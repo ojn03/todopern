@@ -1,0 +1,1 @@
+A simple tutorial project to get accustomed to PERN (Postgres, Express, React, Node.js)
